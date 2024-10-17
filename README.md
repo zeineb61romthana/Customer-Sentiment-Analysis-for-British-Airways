@@ -6,5 +6,3 @@ In this project, I scraped **1,000 reviews from Skytrax** to analyze customer se
 **Tools Used:** Python, Scikit-learn, Random Forest Classifier, XGBoost, Mutual Information Analysis
 
 ---
-
-Feel free to adjust any part of it to better fit your vision!
